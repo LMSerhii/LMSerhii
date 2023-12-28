@@ -17,6 +17,9 @@
 🎧 My hobbies: music, tourism, cooking, motorcycles, snowboard, space, stars , Star Trek
 
 
+🛠️ Languages and Tools :
+Git GitHub  Visual Studio Code  Bash  Figma  HTML  CSS  Sass  methodology BEM  JavaScript  TypeScript  npm  React  Redux  NodeJS  Terminal  Parcel  Webpack  Codewars  CodePen  Slack  Trello  Browserslist  Postman  MongoDB  Firebase  Vite 
+
 <!---
 LMSerhii/LMSerhii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
