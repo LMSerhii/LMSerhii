@@ -1,25 +1,46 @@
-👋 Hi, my name is Serhii
+# 👋 Hi, I'm Serhii
 
-🧔 I’m 35
+A fullstack developer focused on building robust, scalable web applications using modern JavaScript and TypeScript technologies. I specialize in **React**, **Node.js**, and **TypeScript**—with strong backend knowledge and solid DevOps skills.
 
-🎂 I was born in Kharkiv, now I live in Kiev
+---
 
-👩‍❤️‍👨 I’m married
+## 🔧 Core Tech Stack
 
-👪 I have two kids
+**Frontend**  
+React · Redux Toolkit · TypeScript · Vite · MUI · Emotion · Zustand · Formik · React Hook Form
 
-👨‍💻 I work in IT
+**Backend**  
+Node.js · Express · TypeScript · MongoDB · PostgreSQL · Redis · Prisma
 
-🎓 I graduated from the University in 2012 as a System Analyst Engineer
+**Other Tools**  
+Docker · Git · Postman · Figma · Swagger · CI/CD · Nginx · VS Code · Linux
 
-🧱 My friends say that I’m reliable
+---
 
-🎧 My hobbies: music, tourism, cooking, motorcycles, snowboard, space, stars , Star Trek
+## 🛠 Also familiar with (secondary stack)
 
-My Skills: 
+Python · FastAPI · SQLAlchemy · Django
+
+---
+
+## 👨‍💻 About Me
+
+- 📍 Based in Kyiv (originally from Kharkiv)
+- 🎓 System Analyst Engineer, class of 2012
+- 👨‍👩‍👧‍👦 Married, father of two
+- 🧱 Known for being reliable and detail-oriented
+- 🎧 Love music, touring, motorcycles, snowboarding, cooking, astronomy, and Star Trek 🖖
+
+---
+
+## ⚙️ Tech Icons
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,redux,python,django,postman,figma,mui,vite,postgresql,scss" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,redux,html,css,scss,vite,mongodb,postgres,docker,git,postman,figma,python,fastapi" />
   </a>
 </p>
+
+---
+
+> Let’s connect. I’m always open to meaningful collaboration and new challenges.
