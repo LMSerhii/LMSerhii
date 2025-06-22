@@ -17,7 +17,7 @@ Docker · Git · Postman · Figma · Swagger · CI/CD · Nginx · VS Code · Lin
 
 ---
 
-## 🛠 Also familiar with (secondary stack)
+## 🛠 Also familiar with
 
 Python · FastAPI · SQLAlchemy · Django
 
@@ -33,7 +33,7 @@ Python · FastAPI · SQLAlchemy · Django
 
 ---
 
-## ⚙️ Tech Icons
+## ⚙️ Tech
 
 <p align="center">
   <a href="https://skillicons.dev">
